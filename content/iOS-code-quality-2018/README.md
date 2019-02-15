@@ -1,6 +1,6 @@
 # iOS code quality metrics for 2018
 
-> Code quiality metrics in iOS projects developed by EL Passion in 2018.
+> Code quality metrics in iOS projects developed by EL Passion in 2018.
 
 In 2018 our iOS team successfully developed several projects with high emphasis on quality. We approached them using TDD, pair programming and regular code reviews. Here you can see the code coverage metrics based on three of the apps we implemented.
 
