@@ -4,6 +4,17 @@
 
 In 2018 our iOS team successfully developed several projects with high emphasis on quality. We approached them using TDD, pair programming and regular code reviews. Here you can see the code coverage metrics based on three of the apps we implemented.
 
+### Code coverage
+
+> The amount of code covered by tests
+
+|Project|Lines of code|Number of tests|Unit tests|Snapshot tests|Coverage|
+|:-|-:|-:|:-:|:-:|-:|
+|Fashion app|27 016|2 917|✅|✅|97.9%|
+|Gym app|82 446|8 257|✅|✅|99.2%|
+|AR shopping app|15 477|1 345|✅|❌|76.8%|
+
+
 ### Fashion app
 
 > An app for fashion influencers that let's you browse clothes from different suppliers, mix and match them into unique
@@ -35,13 +46,3 @@ In 2018 our iOS team successfully developed several projects with high emphasis 
 * Persistence with [Core Data](https://developer.apple.com/documentation/coredata)
 * Tested with [Quick](https://github.com/Quick/Quick) and [Nimble](https://github.com/Quick/Nimble)
 * Continuous integration
-
-## Code coverage
-
-> The amount of code covered by tests
-
-|Project|Lines of code|Number of tests|Unit tests|Snapshot tests|Coverage|
-|:-|-:|-:|:-:|:-:|-:|
-|Fashion app|27 016|2 917|✅|✅|97.9%|
-|Gym app|82 446|8 257|✅|✅|99.2%|
-|AR shopping app|15 477|1 345|✅|❌|76.8%|
