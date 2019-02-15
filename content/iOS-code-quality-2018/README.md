@@ -7,7 +7,7 @@ In 2018 our iOS team successfully developed several projects with high emphasis 
 ### Fashion app
 
 > An app for fashion influencers that let's you browse clothes from different suppliers, mix and match them into unique
-> outfits. Developed in Swift 4.
+> outfits.
 
 * Swift 4
 * Tested with [Quick](https://github.com/Quick/Quick) and [Nimble](https://github.com/Quick/Nimble)
