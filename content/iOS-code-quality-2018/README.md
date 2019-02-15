@@ -4,7 +4,7 @@
 
 In 2018 our iOS team successfully developed several projects with high emphasis on quality. We approached them using TDD, pair programming and regular code reviews. Here you can see the code coverage metrics based on three of the apps we implemented.
 
-### Code coverage
+## Code coverage
 
 > The amount of code covered by tests
 
