@@ -6,7 +6,7 @@ EL Passion Showcase repository
 
 ## Content
 
-[add links to content here]
+- [iOS code quality metrics for 2018](content/iOS-code-quality-2018)
 
 ## License
 
