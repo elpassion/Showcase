@@ -1,5 +1,7 @@
 # Custom pagination in UIScrollView
 
+![platform: iOS](https://img.shields.io/badge/platform-iOS-blue.svg)
+
 There are various ways of implementing custom pagination in `UIScrollView` (or `UITableView` or `UICollectionView`). Below you can find very simple and effective one. 
 
 ## ScrollPageController
