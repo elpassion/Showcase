@@ -4,6 +4,13 @@ import CoreGraphics
 
 struct ScrollPageController {
 
+    /// Computes page offset from page offsets array for given scroll offset and velocity
+    ///
+    /// - Parameters:
+    ///   - offset: current scroll offset
+    ///   - velocity: current scroll velocity
+    ///   - pageOffsets: page offsets array
+    /// - Returns: current page offset from array or nil if no page offets provided
     func pageOffset(for offset: CGFloat, velocity: CGFloat, in pageOffsets: [CGFloat]) -> CGFloat? {
         let pages = pageOffsets.enumerated().reduce([Int: CGFloat]()) {
             var dict = $0
@@ -22,6 +29,12 @@ struct ScrollPageController {
         return pages[pageOffsets.index(after: page.key)] ?? page.value
     }
 
+    /// Cumputes page fraction from page offsets array for given scroll offset
+    ///
+    /// - Parameters:
+    ///   - offset: current scroll offset
+    ///   - pageOffsets: page offsets array
+    /// - Returns: current page fraction in range from 0 to number of pages or nil if no page offets provided
     func pageFraction(for offset: CGFloat, in pageOffsets: [CGFloat]) -> CGFloat? {
         let pages = pageOffsets.sorted().enumerated()
         if let index = pages.first(where: { $0.1 == offset })?.0 {
