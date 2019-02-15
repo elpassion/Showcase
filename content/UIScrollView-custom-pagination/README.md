@@ -64,7 +64,7 @@ class ExampleViewController: UIViewController, UIScrollViewDelegate {
         }
     }
     
-    // if you have a page control you would like update when scrolling:
+    // if you have a page control you would like to update when scrolling:
     
     func scrollViewDidScroll(_ scrollView: UIScrollView) {
         if let pageFraction = ScrollPageController().pageFraction(
