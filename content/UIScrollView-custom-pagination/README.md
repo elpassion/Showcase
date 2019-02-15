@@ -43,6 +43,8 @@ struct ScrollPageController {
 
 ```
 
+If you are looking for a drop-in solution for your project, check out attached [ScrollPageController.swift](ScrollPageController.swift) file and its tests in [ScrollPageControllerSpec.swift](ScrollPageControllerSpec.swift).
+
 ## How to use it
 
 It's quite simple:
