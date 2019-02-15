@@ -16,7 +16,6 @@ In 2018 our iOS team successfully developed several projects with high emphasis 
 |Gym app|82 446|8 257|✅|✅|99.2%|
 |AR shopping app|15 477|1 345|✅|❌|76.8%|
 
-
 ### Fashion app
 
 > An app for fashion influencers that let's you browse clothes from different suppliers, mix and match them into unique
