@@ -101,4 +101,4 @@ If you prefer a real-life example, check out [E-commerce Today's deals interacti
 
 Copyright © 2019 [EL Passion](https://www.elpassion.com)
 
-License: [GNU GPLv3](../LICENSE)
+License: [GNU GPLv3](../../LICENSE)
