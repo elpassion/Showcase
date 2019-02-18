@@ -10,7 +10,7 @@ struct ScrollPageController {
     ///   - offset: current scroll offset
     ///   - velocity: current scroll velocity
     ///   - pageOffsets: page offsets array
-    /// - Returns: current page offset from array or nil if no page offets provided
+    /// - Returns: target page offset from array or nil if no page offets provided
     func pageOffset(for offset: CGFloat, velocity: CGFloat, in pageOffsets: [CGFloat]) -> CGFloat? {
         let pages = pageOffsets.enumerated().reduce([Int: CGFloat]()) {
             var dict = $0
