@@ -4,7 +4,17 @@
 
 There are various ways of implementing custom pagination in `UIScrollView` (or `UITableView` or `UICollectionView`). Below you can find very simple and effective one. 
 
-## ScrollPageController
+## Example
+
+Below you can see real-life example, taken from [E-commerce Today's deals interaction, iOS demo](https://github.com/elpassion/ecommerce-ios-demo).
+
+|Example|
+|:-:|
+|![Preview](preview.gif)|
+
+## Implementation
+
+We will use `ScrollPageController` class to control `UIScrollView` paging and update `UIPageControl`:
 
 ```swift
 struct ScrollPageController {
@@ -120,11 +130,10 @@ If you want to page by scroll view subviews:
     }
 ```
 
-## Example
+If you prefer real-life example, check out [E-commerce Today's deals interaction, iOS demo](https://github.com/elpassion/ecommerce-ios-demo) implementation.
 
-Below you can see real-life example, taken from [E-commerce Today's deals interaction, iOS demo](https://github.com/elpassion/ecommerce-ios-demo).
+## License
 
-|Example|
-|:-:|
-|![Preview](preview.gif)|
+Copyright © 2019 [EL Passion](https://www.elpassion.com)
 
+License: [GNU GPLv3](../../LICENSE)
