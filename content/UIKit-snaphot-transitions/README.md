@@ -30,10 +30,10 @@ public final class SnapshotTransition {
     ///   - clipToBounds: set to false if you don't want bounds clipping (default value is true)
     ///   - childTransitions: array of (source childview, target childview) tuples that should be animated
     ///     separately alongside transition (default value is an empty array)
-    public init(from: UIView, 
-        	    to: UIView, 
-                in container: UIView, 
-                clipToBounds: Bool = default, 
+    public init(from: UIView,
+                to: UIView,
+                in container: UIView,
+                clipToBounds: Bool = default,
                 childTransitions: [(from: UIView, to: UIView)] = default)
 
     /// Call when you are ready to perform transition (when your views are layed out etc.)
