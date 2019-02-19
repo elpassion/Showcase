@@ -2,7 +2,7 @@
 
 ![platform: iOS](https://img.shields.io/badge/platform-iOS-blue.svg)
 
-We take tests seriously at [EL Passion](https://www.elpassion.com). When implementing iOS apps, we always try practice TDD, pair-programming and regular code-reviews. We want our software to be stable and bug-free. We often work on apps with outstanding design, that includes animations. In this case, we incorporate snapshot-based tests that work not only for static UI but also for animations.
+We take tests seriously at [EL Passion](https://www.elpassion.com). When implementing iOS apps, we always try to practice TDD, pair-programming and regular code-reviews. We want our software to be stable and bug-free. We often work on apps with outstanding design, that includes animations. In this case, we incorporate snapshot-based tests that work not only for static UI but also for animations.
 
 ## Example
 
