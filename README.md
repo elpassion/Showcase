@@ -6,6 +6,7 @@ EL Passion Showcase repository
 
 ## Content
 
+- [Testing animations in UIKit](content/testing-UIKit-animations) 
 - [Snapshot-based transitions in UIKit](content/UIKit-snaphot-transitions) 
 - [Custom pagination in UIScrollView](content/UIScrollView-custom-pagination) 
 - [E-commerce Today's deals interaction, iOS demo](content/ecommerce-ios-demo) 
