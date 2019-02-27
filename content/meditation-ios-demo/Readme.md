@@ -10,7 +10,6 @@ into native iOS application.
 |[![Shot](shot_animation.gif)](https://dribbble.com/shots/3853204-Meditation-app)|![Preview](app_demo.gif)|
 
 - Swift 4.2
-- 100% unit-testable code 🔥
 
 ## Source
 
