@@ -2,13 +2,13 @@
 
 ![platform: iOS](https://img.shields.io/badge/platform-iOS-blue.svg)
 
-RxSwift is an amazing framework that streamlines all of the event handling in the iOS apps and making the final products less viable to state related issues. The framework greatly simplifies data updates from different sources such as the local database, HTTP services or websockets. 
+RxSwift is an amazing framework that streamlines all of the event handling in the iOS apps and makes them less prone to state related issues. RxSwift simplifies data updates from sources such as the local database, HTTP services or websockets.
 
 At [EL Passion](https://www.elpassion.com) we love using [RxSwift](https://github.com/ReactiveX/RxSwift). In fact we :heart: it so much that we've held the two editions of the [RxSwift workshop for iOS developers](https://edu.elpassion.com/workshops/rxswift/).
 
 However, there are some cases where pure RxSwift is not always enough. For example paginating API results requires parts of explicit state management. That's why [RxFeedback](https://github.com/NoTests/RxFeedback.swift) architecture came to life. It helps modelling system-level interactions with RxSwift abstractions.
 
-In this article we'll show how to build paginated list with animated updates in approximately 100 lines of code using [RxFeedback](https://github.com/NoTests/RxFeedback.swift) architecture and [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) for animated updates.
+In the showcase we present how we've built the paginated list with animated updates in approximately 100 lines of code for our Client.
 
 ## Case study
 
