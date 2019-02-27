@@ -43,7 +43,7 @@ class ModelListItemViewModel: IdentifiableType, Equatable {
     // MARK: - Equatable
 
     public static func == (lhs: ModelListItemViewModel, rhs: ModelListItemViewModel) -> Bool {
-        return lhs.model === rhs.model
+        return lhs.model == rhs.model
     } 
 
     // MARK: - Private
