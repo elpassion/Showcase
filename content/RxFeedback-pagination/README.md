@@ -79,12 +79,12 @@ In order to build pagination with [RxFeedback](https://github.com/NoTests/RxFeed
 
 * state structure,
 * possible events enum,
-* `reduce` function which converts current state and the event to a new state,
+* `reduce` function which converts the current state and the event to the new state,
 * system description with a list of feedback loops.
 
 ### State
 
-The state consists of already downloaded models and next page offset. It also holds a flag to tell whether we should start downloading the next page.
+The state consists of already downloaded models and the next page offset. It also holds a flag to tell whether we should start downloading the next page.
 
 ```swift
 struct ModelListState: Equatable {
@@ -116,9 +116,9 @@ enum ModelListEvent {
 
 Reducer handles the events as follows:
 
-* scrolled to item event - it flips `shouldLoadNextPage` flag to true when user scrolled down to the bottom item,
-* next page response - appends models, updates next page offset and stops fetching the next page.
-* error - stops fetching the next page.
+* scrolled to an item event - it flips `shouldLoadNextPage` flag to true when user scrolled down to the bottom item,
+* next page response - it appends the models, updates the next page offset and stops fetching the next page.
+* error - it stops fetching the next page.
 
 ```swift
 extension ModelListState {
@@ -157,7 +157,7 @@ extension ModelListState {
 
 There are 2 feedback loops defined:
 
-* UI feedback loop - it wires view models to the collection view and receives scroll to item events,
+* UI feedback loop - it wires sections' view models to the collection view and receives scroll to item events,
 * react feedback loop - it triggers fetching the next page when `fetchOffset` property is present for the page.
 
 ```swift
