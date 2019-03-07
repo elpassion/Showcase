@@ -2,8 +2,7 @@
 
 ![platform: iOS](https://img.shields.io/badge/platform-iOS-blue.svg)
 
-We love implementing beautiful applications. Below you can see how we converted a relaxing Dribbble shot made by one of our designers 
-into native iOS application.
+Implementing animations may be tricky and demanding but on the other hand users require both value and aesthetic look from their apps. How about taking one of our designer's dribbble shot and converting into native iOS application? See the results below!
 
 |Dribbble shot|Demo app|
 |:-:|:-:|
