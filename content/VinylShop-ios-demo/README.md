@@ -2,7 +2,7 @@
 
 ![platform: iOS](https://img.shields.io/badge/platform-iOS-blue.svg)
 
-Our iOS team at [EL Passion](https://elpassion.com) wanted to know what it takes to put our designers' work into motion. We've challenged ourselves to build demanding shots while retaining our trademark high code quality.
+Our iOS team at [EL Passion](https://www.elpassion.com) wanted to know what it takes to put our designers' work into motion. We've challenged ourselves to build demanding shots while retaining our trademark high code quality.
 
 One of the outcomes is the [Vinyl Shop mobile app](https://dribbble.com/shots/4996346-Vinyl-Shop-mobile-app) by [@MatPrzegietka](https://dribbble.com/MatPrzegietka) implementation. 
 
