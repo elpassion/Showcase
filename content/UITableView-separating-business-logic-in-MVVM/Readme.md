@@ -8,7 +8,7 @@ Below you can see iPhone simulator recording from the `music player`
 
 |Player demo|
 |:-:|
-|![Preview](music-player-demo.gif)|
+|![Preview](files/music-player-demo.gif)|
 
 
 
@@ -20,7 +20,7 @@ As you can see there are 4 different modes of the SongCell:
 	
 |.picking(.unselected)|.picking(.selected)|.listening(.playable)|.listening(.playing)|
 |:-:|:-:|:-:|:-:|
-|![Preview](unselected.png)|![Preview](selected.png)|![Preview](playable.png)|![Preview](playing.png)|
+|![Preview](files/unselected.png)|![Preview](files/selected.png)|![Preview](files/playable.png)|![Preview](files/playing.png)|
 
 
 Combinig them together we will build structure such below:
@@ -74,7 +74,7 @@ The last part that left is binding [songViewModels](https://github.com/elpassion
 
 |Simplified MVVM architecture flow|
 |:-:|
-|![Preview](MVVM-flow.png)|
+|![Preview](files/MVVM-flow.png)|
 
 `1` - [MeditationViewController](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MeditationViewController.swift) updates its [MeditationViewModel](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MeditationViewModel.swift) about life cycle / UI actions
 
