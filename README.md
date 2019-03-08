@@ -11,7 +11,10 @@ EL Passion Showcase repository
 - [Custom pagination in UIScrollView](content/UIScrollView-custom-pagination) 
 - [UITableView vs Managing business logic in MVVM](content/UITableView-separating-business-logic-in-MVVM)
 - [E-commerce Today's deals interaction, iOS demo](content/ecommerce-ios-demo) 
+- [Meditation app for iOS - demo](content/meditation-ios-demo) 
 - [iOS code quality metrics for 2018](content/iOS-code-quality-2018) 
+- [Pagination with RxFeedback & RxDataSources](content/RxFeedback-pagination) 
+- [Vinyl Shop iOS app demo](content/VinylShop-ios-demo) 
 
 ## License
 
