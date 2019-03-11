@@ -18,7 +18,12 @@ Below you can see iPhone simulator recording from the `music player`
 ## Model
 
 
-As you can see there are 4 different modes of the SongCell:
+As you can see there are two screen kinds:
+
+- picking
+- listening
+
+and, in total, four different modes of the SongCell:
 
 	
 |.picking(.unselected)|.picking(.selected)|.listening(.playable)|.listening(.playing)|
@@ -75,7 +80,7 @@ The last part that left is binding [songViewModels](https://github.com/elpassion
 |:-:|
 |![Preview](files/MVVM-flow.png)|
 
-`1` - [MeditationViewController](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MeditationViewController.swift) updates its [MeditationViewModel](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MeditationViewModel.swift) about life cycle / UI actions
+`1` - [MeditationViewController](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MeditationViewController.swift) updates its [MeditationViewModel](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MeditationViewModel.swift) about view life cycle and UI actions
 
 `2` - [MeditationViewModel](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MeditationViewModel.swift) updates [MeditationViewController](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MeditationViewController.swift) with [songViewModels](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/SongPicker/SongViewModel.swift)
 
@@ -96,7 +101,14 @@ func configure(cell: SongViewCell, with viewModel: SongViewModeling) {
 
 `5` - [MusicPlayer](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MusicPlayer.swift) contains aggregate methods for altering modes of song ViewModels - stateless entity
 
-## Details
+## Summary
+
+In MVVM architecture we name both ViewControllers and Views as View and it should not have any business logic but only listens to its ViewModel orders. In our meditation example the View ([MeditationViewController](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MeditationViewController.swift)) is completely without business logic. It has only view logic such building subviews and configurating them with child viewModels ([songViewModels](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/SongPicker/SongViewModel.swift))
+
+This way all the business logic can be extracted to ViewModel ([MeditationViewModel](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MeditationViewModel.swift)) and its helpers that make the code readable and divided into single responsibility entities:
+
+- songViewModels manager [MusicPlayer](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MusicPlayer.swift)
+- screen state operator [MeditationScreenStateOperator](https://github.com/elpassion/meditation-ios-demo/blob/master/MeditationAppShowcase/MeditationAppShowcase/Screens/Meditation/MeditationScreenStateOperator.swift)
 
 For more details see [meditaion-ios-demo](https://github.com/elpassion/meditation-ios-demo) 
 
