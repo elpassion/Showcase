@@ -2,6 +2,8 @@
 
 ![platform: iOS](https://img.shields.io/badge/platform-iOS-blue.svg)
 
+EL Passion :heart: giving back to the community. Not only we're developing open source projects, but also promote speaking at the conferences internally.
+
 > Summary of the iOS talks given by EL Passion in 2018.
 
 |Date|Venue|Topic|Author|Video|Details|
