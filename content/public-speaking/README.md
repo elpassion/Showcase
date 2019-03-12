@@ -32,4 +32,4 @@ The talk showcases the best programming practices that EL Passion iOS team uses 
 
 > Video: [youtube](https://www.youtube.com/watch?v=H7qB4Z9VtiM).
 
-The talk presents the techniques that enabled us to write more testable code  during the development of large Swift codebase. It shows how to make use of snapshot testing, how to apply boundaries pattern in daily development and also covers code duplicate detection.
+The talk presents the techniques that enabled us to write more testable code  during the development of large Swift codebase. It shows how to make use of snapshot testing, how to apply the boundaries pattern in daily development and also covers the duplicated source code detection.
