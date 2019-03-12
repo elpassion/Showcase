@@ -22,7 +22,7 @@ We couldn't easily configure SwiftLint to use a different configuration for the 
 
 ## SwiftLint runner
 
-Fortunately, we've been able to fix the issue by implementing a simple Python script which reads the contents of the `.pbxproj` file and modifies the included files in the SwiftLint config prior to the linting. The sources contain two files:
+Fortunately, we've been able to fix the issue by implementing a simple Python script which reads the contents of the `.pbxproj` file and modifies the included files in the SwiftLint config prior to the linting. The script is dived into the two simple files:
 
 * [lint.py](https://github.com/elpassion/swiftlint-runner/blob/master/commands/lint.py),
 * [xcproj.py](https://github.com/elpassion/swiftlint-runner/blob/master/commands/utils/xcproj.py).
