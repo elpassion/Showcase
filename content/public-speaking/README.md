@@ -6,9 +6,9 @@
 
 |Date|Venue|Topic|Author|Video|Details|
 |:-|:-:|:-|:-|:-|:-:|
-| 22th Oct, 2018 | [Mobile Warsaw #65](https://www.meetup.com/Mobile-Warsaw/events/255634457/) | Having fun(ctions) with Swift | [Jakub Turek](https://github.com/turekj) | [youtube](https://www.youtube.com/watch?v=uwGlvLgcXVk) | [:arrow_heading_down:](#user-content-having-functions-with-swift) |
-| 18th Sep, 2018 | [SwiftConf '18](https://www.youtube.com/playlist?list=PLgUjQUYKwG_hkD2ZcfAs7bTZwbEtAnNFs&fbclid=IwAR3sTp9d3Wrev8e6dDjfg0WRXMF9NCZTsDiUmjm8EMd15VeqxRPqv3zoFlU) | Always give 100% | [Jakub Turek](https://github.com/turekj) | [youtube](https://www.youtube.com/watch?v=aPnT-n-igEI) | [:arrow_heading_down:](#user-content-always-give-100) |
-| 18th June, 2018 | [Mobile Warsaw #62](https://www.meetup.com/Mobile-Warsaw/events/251765809/) | Patterns & practices for unit testing Swiftly | [Jakub Turek](https://github.com/turekj) | [youtube](https://www.youtube.com/watch?v=H7qB4Z9VtiM) | [:arrow_heading_down:](#user-content-patterns--practices-for-unit-testing-swiftly) |
+| 22th Oct | [Mobile Warsaw #65](https://www.meetup.com/Mobile-Warsaw/events/255634457/) | Having fun(ctions) with Swift | [Jakub Turek](https://github.com/turekj) | [youtube](https://www.youtube.com/watch?v=uwGlvLgcXVk) | [:arrow_heading_down:](#user-content-having-functions-with-swift) |
+| 18th Sep | [SwiftConf '18](https://www.youtube.com/playlist?list=PLgUjQUYKwG_hkD2ZcfAs7bTZwbEtAnNFs&fbclid=IwAR3sTp9d3Wrev8e6dDjfg0WRXMF9NCZTsDiUmjm8EMd15VeqxRPqv3zoFlU) | Always give 100% | [Jakub Turek](https://github.com/turekj) | [youtube](https://www.youtube.com/watch?v=aPnT-n-igEI) | [:arrow_heading_down:](#user-content-always-give-100) |
+| 18th June | [Mobile Warsaw #62](https://www.meetup.com/Mobile-Warsaw/events/251765809/) | Patterns & practices for unit testing Swiftly | [Jakub Turek](https://github.com/turekj) | [youtube](https://www.youtube.com/watch?v=H7qB4Z9VtiM) | [:arrow_heading_down:](#user-content-patterns--practices-for-unit-testing-swiftly) |
 
 ## Having fun(ctions) with Swift
 
