@@ -4,6 +4,8 @@
 
 > Code quality metrics in iOS projects developed by EL Passion in 2018.
 
+![Code coverage](coverage.gif)
+
 In 2018 our iOS team successfully developed several projects with high emphasis on quality. We approached them using TDD, pair programming and regular code reviews. Here you can see the code coverage metrics based on three of the apps we implemented.
 
 ## Code coverage
