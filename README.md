@@ -16,6 +16,7 @@ EL Passion Showcase repository
 - [Pagination with RxFeedback & RxDataSources](content/RxFeedback-pagination) 
 - [Vinyl Shop iOS app demo](content/VinylShop-ios-demo) 
 - [Public speaking](content/public-speaking) 
+- [SwiftLint config per target](content/SwiftLint-config-per-target) 
 
 ## License
 
