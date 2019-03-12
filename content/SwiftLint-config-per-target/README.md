@@ -18,11 +18,11 @@ Project /
            └── LoginViewControllerSpec.swift
 ```
 
-We couldn't easily configure to use a different configuration for the production and for the test files.
+We couldn't easily configure SwiftLint to use a different configuration for the production and for the test files.
 
 ## SwiftLint runner
 
-Fortunately, we've been able to fix the issue by implementing a simple Python script which reads the contents of `.pbxproj` file and modifies the included files in the config prior to running the linting. The sources contain two files:
+Fortunately, we've been able to fix the issue by implementing a simple Python script which reads the contents of the `.pbxproj` file and modifies the included files in the SwiftLint config prior to the linting. The sources contain two files:
 
 * [lint.py](https://github.com/elpassion/swiftlint-runner/blob/master/commands/lint.py),
 * [xcproj.py](https://github.com/elpassion/swiftlint-runner/blob/master/commands/utils/xcproj.py).
