@@ -2,7 +2,7 @@
 
 ![platform: iOS](https://img.shields.io/badge/platform-iOS-blue.svg)
 
-> Do you want us to run a professional RxSwift training for your company? Contact us at [projects@elpassion.com](mailto:projects@elpassion.com).
+> Do you want us to run a professional RxSwift training in your company? Contact us at [projects@elpassion.com](mailto:projects@elpassion.com).
 
 The mobile team at **EL Passion** is very enthusiastic about reactive programming. The reactive approach helps us build the apps thinking about the functionalities, not about technical matters of keeping the internal state in sync.
 
