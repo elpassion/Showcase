@@ -32,6 +32,7 @@ In this repository you can find examples of our work split into different catego
 
 ## Meet the Team
 
+- [RxSwift workshops](content/RxSwift-workshops) 
 - [Public speaking](content/public-speaking) 
 
 ## License
