@@ -30,12 +30,20 @@ Each module consists of a theoretical introduction in form of the presentation a
 
 ## Attendees' reviews
 
+Review #1:
+
 > I've visited EL Passion during the RxSwift training. I work in software development for over 15 years, and I have to admit that I've never seen such a well-organized workshop ran free of charge. I was impressed by how professional the whole organization had been.
+
+Review #2: 
 
 > Thanks to iOS team for professional and well prepared
 RxSwift workshop.
 
+Review #3:
+
 > I took part in RxSwift training ran by EL Passion. Very substantive workshops, great preparation and held in a nice atmosphere.
+
+You can read more reviews on [our Facebook page](https://www.facebook.com/pg/elpassion/reviews/).
 
 ## Pictures
 
