@@ -6,7 +6,7 @@
 
 The mobile team at **EL Passion** is very enthusiastic about reactive programming. The reactive approach helps us build the apps thinking about the functionalities, not about technical matters of keeping the internal state in sync.
 
-In fact, we use the reactive programming so extensively that we'd decided to share the knowledge with others. We've held two editions of RxSwift workshops during which we've mentored almost **40 iOS developers** through their first steps with the framework and reactive programming in general!
+In fact, we use reactive programming so extensively that we'd decided to share the knowledge with others. We've held two editions of RxSwift workshops during which we've mentored almost **40 iOS developers** through their first steps with the framework and reactive programming in general!
 
 ## Content
 
