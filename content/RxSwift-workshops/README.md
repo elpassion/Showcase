@@ -36,8 +36,7 @@ Review #1:
 
 Review #2: 
 
-> Thanks to iOS team for professional and well prepared
-RxSwift workshop.
+> Thanks to iOS team for professional and well prepared RxSwift workshop.
 
 Review #3:
 
