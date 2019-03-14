@@ -10,7 +10,7 @@ In fact, we use reactive programming so extensively that we'd decided to share t
 
 ## Content
 
-The workshop is aimed towards seasoned iOS developers who have no prior experience with RxSwift. It consists of three modules:
+The workshop is aimed towards people who are familiar with iOS development but never had a chance to try RxSwift. It's divided into three modules:
 
 1. Introduction to Functional Reactive Programming and basic RxSwift operators.
 2. UI bindings with RxCocoa.
