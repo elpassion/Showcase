@@ -1,8 +1,8 @@
 # EL Showcase
 
-EL Passion Showcase repository
+**EL Passion** is a product house who can help you turn your idea into a great product. 
 
-[add some intro text here]
+One of the values that are core to **EL Passion** team is the high quality of our work. Since we're very proud of our capabilities, we've decided to showcase some of our skills. 
 
 ## Content
 
