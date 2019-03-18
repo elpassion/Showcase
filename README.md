@@ -27,7 +27,7 @@ In this repository you can find examples of our work split into different catego
 
 - [Snapshot-based transitions in UIKit](content/UIKit-snaphot-transitions) 
 - [Custom pagination in UIScrollView](content/UIScrollView-custom-pagination) 
-- [UITableView vs Managing business logic in MVVM](content/UITableView-separating-business-logic-in-MVVM)
+- [UITableView vs Managing business logic in MVVM](content/UITableView-separating-business-logic-in-MVVM) 
 - [Pagination with RxFeedback & RxDataSources](content/RxFeedback-pagination) 
 
 ## Meet the Team
