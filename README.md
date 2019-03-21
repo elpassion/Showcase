@@ -1,6 +1,6 @@
-# EL Showcase
-
 <img src="images/el_passion_avatar_800.png" alt="EL Passion" align="right" height="150px" />
+
+# EL Showcase
 
 **EL Passion** is a product house who can help you turn your idea into a great product.
 
