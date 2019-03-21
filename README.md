@@ -8,10 +8,21 @@ One of the values that are core to **EL Passion** team is the high quality of ou
 
 In this repository you can find examples of our work split into different categories:
 
-* [Code quality & testing](#code-quality--testing) - describes how the team measures the code quality and achieves the highest standards.
-* [Dribbble shots](#dribbble-shots) - we've challenged ourselves to implement the visually pleasing Dribbble shots created by our designers. This category showcases the results.
-* [Solving technical problems](#solving-technical-problems) - contains the examples of nice and easy solutions to the typical problems we face during the product development.
-* [Meet the Team](#meet-the-team) - presents our efforts to share the knowledge outside of the company. 
+* [Code quality & testing](#code-quality--testing)
+  
+  Describes how the team measures the code quality and achieves the highest standards.
+
+* [Dribbble shots](#dribbble-shots)
+
+  We've challenged ourselves to implement the visually pleasing Dribbble shots created by our designers. This category showcases the results.
+
+* [Solving technical problems](#solving-technical-problems)
+  
+  Contains the examples of nice and easy solutions to the typical problems we face during the product development.
+
+* [Meet the Team](#meet-the-team)
+
+  Presents our efforts to share the knowledge outside of the company. 
 
 ## :mag: Code quality & testing
 
@@ -21,7 +32,7 @@ In this repository you can find examples of our work split into different catego
 
 ## :basketball: Dribbble shots
 
-- [E-commerce Today's Deals [iOS App Demo]](content/ecommerce-ios-demo) 
+- [E-commerce Today's Deals - Interaction [iOS App Demo]](content/ecommerce-ios-demo) 
 - [Vinyl Shop [iOS App Demo]](content/VinylShop-ios-demo) 
 - [Meditation App [iOS App Demo]](content/meditation-ios-demo) 
 
