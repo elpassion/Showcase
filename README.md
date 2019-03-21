@@ -10,7 +10,7 @@ In this repository you can find examples of our work split into different catego
 
 &nbsp;
 
-## :mag: Code quality & testing
+## <span style="float:right">:mag:</span>Code quality & testing
 
 How the team measures the code quality and achieves the highest standards.
 
@@ -20,7 +20,7 @@ How the team measures the code quality and achieves the highest standards.
 
 &nbsp;
 
-## :basketball: Dribbble shots
+## <span style="float:right">:basketball:</span> Dribbble shots
 
 We've challenged ourselves to implement the visually pleasing Dribbble shots created by our designers. This category showcases the results.
 
@@ -30,7 +30,7 @@ We've challenged ourselves to implement the visually pleasing Dribbble shots cre
 
 &nbsp;
 
-## :hammer_and_wrench: Solving technical problems
+## <span style="float:right">:hammer_and_wrench:</span> Solving technical problems
 
 Examples of nice and easy solutions to the typical problems we face during the product development.
 
@@ -41,7 +41,7 @@ Examples of nice and easy solutions to the typical problems we face during the p
 
 &nbsp;
 
-## :handshake: Meet the Team
+## <span style="float:right">:handshake:</span> Meet the Team
 
 Our efforts to share the knowledge outside of the company.
 
