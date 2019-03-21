@@ -8,8 +8,6 @@ One of the values that are core to **EL Passion** team is the high quality of ou
 
 In this repository you can find examples of our work split into different categories:
 
-&nbsp;
-
 ## :mag: Code quality & testing
 
 How the team measures the code quality and achieves the highest standards.
