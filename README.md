@@ -10,7 +10,7 @@ In this repository you can find examples of our work split into different catego
 
 &nbsp;
 
-## <span style="float:right">:mag:</span>Code quality & testing
+## :mag: Code quality & testing
 
 How the team measures the code quality and achieves the highest standards.
 
@@ -18,9 +18,7 @@ How the team measures the code quality and achieves the highest standards.
 - [Testing animations in UIKit](content/testing-UIKit-animations) 
 - [SwiftLint config per target](content/SwiftLint-config-per-target) 
 
-&nbsp;
-
-## <span style="float:right">:basketball:</span> Dribbble shots
+## :basketball: Dribbble shots
 
 We've challenged ourselves to implement the visually pleasing Dribbble shots created by our designers. This category showcases the results.
 
@@ -28,9 +26,7 @@ We've challenged ourselves to implement the visually pleasing Dribbble shots cre
 - [Vinyl Shop [iOS App Demo]](content/VinylShop-ios-demo) 
 - [Meditation App [iOS App Demo]](content/meditation-ios-demo) 
 
-&nbsp;
-
-## <span style="float:right">:hammer_and_wrench:</span> Solving technical problems
+## :hammer_and_wrench: Solving technical problems
 
 Examples of nice and easy solutions to the typical problems we face during the product development.
 
@@ -39,16 +35,12 @@ Examples of nice and easy solutions to the typical problems we face during the p
 - [UITableView vs Managing business logic in MVVM](content/UITableView-separating-business-logic-in-MVVM) 
 - [Pagination with RxFeedback & RxDataSources](content/RxFeedback-pagination) 
 
-&nbsp;
-
-## <span style="float:right">:handshake:</span> Meet the Team
+## :handshake: Meet the Team
 
 Our efforts to share the knowledge outside of the company.
 
 - [RxSwift workshops](content/RxSwift-workshops) 
 - [Public speaking](content/public-speaking) 
-
-&nbsp;
 
 ## License
 
