@@ -8,6 +8,8 @@ One of the values that are core to **EL Passion** team is the high quality of ou
 
 In this repository you can find examples of our work split into different categories:
 
+&nbsp;
+
 ## :mag: Code quality & testing
 
 How the team measures the code quality and achieves the highest standards.
@@ -16,6 +18,8 @@ How the team measures the code quality and achieves the highest standards.
 - [Testing animations in UIKit](content/testing-UIKit-animations) 
 - [SwiftLint config per target](content/SwiftLint-config-per-target) 
 
+&nbsp;
+
 ## :basketball: Dribbble shots
 
 We've challenged ourselves to implement the visually pleasing Dribbble shots created by our designers. This category showcases the results.
@@ -23,6 +27,8 @@ We've challenged ourselves to implement the visually pleasing Dribbble shots cre
 - [E-commerce Today's Deals - Interaction [iOS App Demo]](content/ecommerce-ios-demo) 
 - [Vinyl Shop [iOS App Demo]](content/VinylShop-ios-demo) 
 - [Meditation App [iOS App Demo]](content/meditation-ios-demo) 
+
+&nbsp;
 
 ## :hammer_and_wrench: Solving technical problems
 
@@ -33,12 +39,16 @@ Examples of nice and easy solutions to the typical problems we face during the p
 - [UITableView vs Managing business logic in MVVM](content/UITableView-separating-business-logic-in-MVVM) 
 - [Pagination with RxFeedback & RxDataSources](content/RxFeedback-pagination) 
 
+&nbsp;
+
 ## :handshake: Meet the Team
 
 Our efforts to share the knowledge outside of the company.
 
 - [RxSwift workshops](content/RxSwift-workshops) 
 - [Public speaking](content/public-speaking) 
+
+&nbsp;
 
 ## License
 
