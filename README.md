@@ -8,23 +8,9 @@ One of the values that are core to **EL Passion** team is the high quality of ou
 
 In this repository you can find examples of our work split into different categories:
 
-* [Code quality & testing](#code-quality--testing)
-  
-  Describes how the team measures the code quality and achieves the highest standards.
-
-* [Dribbble shots](#dribbble-shots)
-
-  We've challenged ourselves to implement the visually pleasing Dribbble shots created by our designers. This category showcases the results.
-
-* [Solving technical problems](#solving-technical-problems)
-  
-  Contains the examples of nice and easy solutions to the typical problems we face during the product development.
-
-* [Meet the Team](#meet-the-team)
-
-  Presents our efforts to share the knowledge outside of the company. 
-
 ## :mag: Code quality & testing
+
+How the team measures the code quality and achieves the highest standards.
 
 - [iOS code quality metrics for 2018](content/iOS-code-quality-2018) 
 - [Testing animations in UIKit](content/testing-UIKit-animations) 
@@ -32,11 +18,15 @@ In this repository you can find examples of our work split into different catego
 
 ## :basketball: Dribbble shots
 
+We've challenged ourselves to implement the visually pleasing Dribbble shots created by our designers. This category showcases the results.
+
 - [E-commerce Today's Deals - Interaction [iOS App Demo]](content/ecommerce-ios-demo) 
 - [Vinyl Shop [iOS App Demo]](content/VinylShop-ios-demo) 
 - [Meditation App [iOS App Demo]](content/meditation-ios-demo) 
 
 ## :hammer_and_wrench: Solving technical problems
+
+Examples of nice and easy solutions to the typical problems we face during the product development.
 
 - [Snapshot-based transitions in UIKit](content/UIKit-snaphot-transitions) 
 - [Custom pagination in UIScrollView](content/UIScrollView-custom-pagination) 
@@ -44,6 +34,8 @@ In this repository you can find examples of our work split into different catego
 - [Pagination with RxFeedback & RxDataSources](content/RxFeedback-pagination) 
 
 ## :handshake: Meet the Team
+
+Our efforts to share the knowledge outside of the company.
 
 - [RxSwift workshops](content/RxSwift-workshops) 
 - [Public speaking](content/public-speaking) 
