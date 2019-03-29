@@ -32,6 +32,7 @@ Examples of nice and easy solutions to the typical problems we face during the p
 - [Custom pagination in UIScrollView](content/UIScrollView-custom-pagination) 
 - [UITableView vs Managing business logic in MVVM](content/UITableView-separating-business-logic-in-MVVM) 
 - [Pagination with RxFeedback & RxDataSources](content/RxFeedback-pagination) 
+- [ReadingListCalendarApp](content/ReadingListCalendarApp) 
 
 ## :handshake: Meet the Team
 
