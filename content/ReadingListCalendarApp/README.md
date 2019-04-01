@@ -2,15 +2,15 @@
 
 ![platform: macOS](https://img.shields.io/badge/platform-macOS-blue.svg)
 
-If you are like us, you love to read web articles. No matter if you interested in functional programming or cooking recipes, there is plenty of resources to learn from over the web. If you are an Apple fan, you are probably in common with Safari Reading List - a place for your web articles, stored for later, waiting to be reviewed and read.
+If you are like us, you love to read web articles. No matter if you are interested in functional programming or cooking recipes, there are plenty of resources all over the web to learn from. If you are an Apple fan, you are probably familiar with Safari Reading List - a place for your web articles, stored for later, waiting to be reviewed and read.
 
-A not long time ago, we were inspired by Marcin Krzyżanowski, who show us another non-standard way of storing web bookmarks... in his calendar:
+Not a long time ago, we were inspired by Marcin Krzyżanowski, who showed us another non-standard way of storing web bookmarks... in his calendar:
 
 ![Tweet by Marcin Krzyzanowski](tweet_krzyzanowskim.png)
 
-We wanted to explore this way of data visualization, so without waiting another minute, Reading List Calendar app was born. It's a simple macOS app project that synchronizes **Safari Reading List** with your **Calendar**. It's written in Swift, native Cocoa application that does not require any third-party service to work.
+We wanted to explore this way of data visualization, so without waiting another minute, Reading List Calendar app was born. It's a simple macOS app project that synchronizes **Safari Reading List** with your **Calendar**. It's a native Cocoa application, written in Swift, that does not require any third-party services to work.
 
-We tried to keep it as simple as possible, but also incorporate macOS sandboxing and security features. That way a user has to choose bookmarks location and authorize access to the calendar in the app, otherwise, it won't be able to read and write data considered to be private (your reading list and calendar events).
+We tried to keep it as simple as possible, but also incorporate macOS sandboxing and security features. User has to choose bookmarks location and authorize access to the calendar in the app, otherwise it won't be able to read and write data considered to be private (your reading list and calendar events).
 
 ![Reading List Calendar](screenshot-1.png)
 
