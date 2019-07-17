@@ -11,6 +11,7 @@ Our Front-end team at [EL Passion](https://www.elpassion.com) wanted to bring [K
 - React 16.8
 - react-transition-group
 - styled-components
+- jest & enzyme tests
 
 ## Source
 
