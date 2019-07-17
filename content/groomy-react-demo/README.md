@@ -6,7 +6,7 @@ Our Front-end team at [EL Passion](https://www.elpassion.com) wanted to bring [K
 
 |Dribbble shot|Implementation|
 |:-:|:-:|
-|[![Shot](shot.png)](https://cdn.dribbble.com/users/953761/screenshots/5838102/attachments/1258040/groomers_list.png)|[![Preview](preview.gif)](https://github.com/elpassion/react-groomy)|
+|![Shot](https://cdn.dribbble.com/users/953761/screenshots/5838102/attachments/1258040/groomers_list.png "Groomy")|[![Preview](preview.gif)](https://github.com/elpassion/react-groomy)|
 
 - React 16.8
 - react-transition-group
