@@ -1,6 +1,6 @@
 # Groomy Web App
 
-![platform: frontend](https://img.shields.io/badge/platform-frontend-brightgreen.svg) ![framework: react](https://img.shields.io/badge/framework-react-blue.svg?logo=react)
+![platform: frontend](https://img.shields.io/badge/platform-frontend-28c23e.svg) ![framework: react](https://img.shields.io/badge/framework-react-61DAFB.svg?logo=react)
 
 Our Front-end team at [EL Passion](https://www.elpassion.com) wanted to bring [Kamil Janus's](https://dribbble.com/shots/5838102-Groomy-Mobile-App-for-pets) beautiful designs to life, so we added smooth animations and made it interactive!
 
