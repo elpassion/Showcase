@@ -1,4 +1,4 @@
-# Groomsy Web App
+# Groomy Web App
 
 ![platform: frontend](https://img.shields.io/badge/platform-frontend-brightgreen.svg)
 
@@ -6,7 +6,7 @@ Our Front-end team at [EL Passion](https://www.elpassion.com) wanted to bring [K
 
 |Dribbble shot|Implementation|
 |:-:|:-:|
-|[![Shot](shot.png)](https://dribbble.com/shots/5838102-Groomy-Mobile-App-for-pets)|[![Preview](preview.gif)](https://github.com/elpassion/react-groomsy)|
+|[![Shot](shot.png)](https://dribbble.com/shots/5838102-Groomy-Mobile-App-for-pets)|[![Preview](preview.gif)](https://github.com/elpassion/react-groomy)|
 
 - React 16.8
 - react-transition-group
@@ -15,7 +15,7 @@ Our Front-end team at [EL Passion](https://www.elpassion.com) wanted to bring [K
 ## Source
 
 - [Dribbble shot by Kamil Janus](https://dribbble.com/shots/5838102-Groomy-Mobile-App-for-pets)
-- [Web Implementation](https://github.com/elpassion/react-groomsy)
+- [Web Implementation](https://github.com/elpassion/groomy)
 
 ## License
 
