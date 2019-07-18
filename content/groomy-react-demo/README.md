@@ -2,7 +2,7 @@
 
 ![platform: frontend](https://img.shields.io/badge/platform-frontend-28c23e.svg) ![framework: react](https://img.shields.io/badge/framework-react-61DAFB.svg?logo=react)
 
-Our Front-end team at [EL Passion](https://www.elpassion.com) wanted to bring [Kamil Janus's](https://dribbble.com/shots/5838102-Groomy-Mobile-App-for-pets) beautiful designs to life, so we added smooth animations and made it interactive!
+Our Front-end team at [EL Passion](https://www.elpassion.com) wanted to bring [Kamil Janus's](https://dribbble.com/shots/5838102-Groomy-Mobile-App-for-pets) beautiful designs to life, so we added smooth animations and made it interactive! Check it out [here](https://groomy.netlify.com/).
 
 |Dribbble shot|Implementation|
 |:-:|:-:|
@@ -16,7 +16,8 @@ Our Front-end team at [EL Passion](https://www.elpassion.com) wanted to bring [K
 ## Source
 
 - [Dribbble shot by Kamil Janus](https://dribbble.com/shots/5838102-Groomy-Mobile-App-for-pets)
-- [Web Implementation](https://github.com/elpassion/groomy)
+- [Code](https://github.com/elpassion/groomy)
+- [Demo](https://groomy.netlify.com/)
 
 ## License
 
