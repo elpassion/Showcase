@@ -1,6 +1,7 @@
 # Groomy Web App
 
-![platform: frontend](https://img.shields.io/badge/platform-frontend-28c23e.svg) ![framework: react](https://img.shields.io/badge/framework-react-61DAFB.svg?logo=react)
+![platform: frontend](https://img.shields.io/badge/platform-frontend-28c23e.svg?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8dGl0bGU+RUwgUGFzc2lvbiBpY29uPC90aXRsZT4KICA8cGF0aCBmaWxsPSIjMjhDMjNFIiBkPSJNMTIsMEM1LjQsMCwwLDUuNCwwLDEyYzAsNi42LDUuNCwxMiwxMiwxMmM2LjYsMCwxMi01LjQsMTItMTJDMjQsNS40LDE4LjYsMCwxMiwweiBNMTIsMTdINi4xVjcuNGg1Ljl2MS44aC00IHYyLjFoMy42VjEzSDcuOXYyLjJIMTJWMTd6IE0xOC45LDE3aC01LjVWNy40aDEuOXY3LjhoMy42VjE3eiIvPgo8L3N2Zz4=)
+![framework: react](https://img.shields.io/badge/framework-react-61DAFB.svg?logo=react)
 
 Our Front-end team at [EL Passion](https://www.elpassion.com) wanted to bring [Kamil Janus's](https://dribbble.com/shots/5838102-Groomy-Mobile-App-for-pets) beautiful designs to life, so we added smooth animations and made it interactive!
 
