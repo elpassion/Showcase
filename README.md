@@ -24,6 +24,7 @@ We've challenged ourselves to implement the visually pleasing Dribbble shots cre
 - [Vinyl Shop [iOS App Demo]](content/VinylShop-ios-demo) 
 - [Meditation App [iOS App Demo]](content/meditation-ios-demo) 
 - [Groomy [React Web App Demo]](content/groomy-react-demo) 🌐
+- [Wine Searcher [iOS App Demo]](content/wine-searcher-ios-demo) 
 
 ## :hammer_and_wrench: Solving technical problems
 
