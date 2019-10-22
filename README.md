@@ -35,6 +35,7 @@ Examples of nice and easy solutions to the typical problems we face during the p
 - [UITableView vs Managing business logic in MVVM](content/UITableView-separating-business-logic-in-MVVM) 
 - [Pagination with RxFeedback & RxDataSources](content/RxFeedback-pagination) 
 - [ReadingListCalendarApp](content/ReadingListCalendarApp) 
+- [FlipClock-SwiftUI](content/FlipClock-SwiftUI) 
 
 ## :handshake: Meet the Team
 
