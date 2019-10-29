@@ -36,6 +36,7 @@ Examples of nice and easy solutions to the typical problems we face during the p
 - [Pagination with RxFeedback & RxDataSources](content/RxFeedback-pagination) 
 - [ReadingListCalendarApp](content/ReadingListCalendarApp) 
 - [FlipClock-SwiftUI](content/FlipClock-SwiftUI) 
+- [CountdownFilmClutter-SwiftUI](content/CountdownFilmClutter-SwiftUI) 
 
 ## :handshake: Meet the Team
 
