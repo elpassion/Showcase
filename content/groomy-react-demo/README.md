@@ -16,7 +16,7 @@ Our Front-end team at [EL Passion](https://www.elpassion.com) wanted to bring [K
 ## Source
 
 - [Dribbble shot by Kamil Janus](https://dribbble.com/shots/5838102-Groomy-Mobile-App-for-pets)
-- [Code](https://github.com/elpassion/groomy)
+- [Code](https://github.com/elpassion/frontfolio-groomy)
 - [Demo](https://groomy.netlify.com/)
 
 ## License
