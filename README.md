@@ -12,6 +12,7 @@ In this repository you can find examples of our work split into different catego
 
 How the team measures the code quality and achieves the highest standards.
 
+- [iOS code quality metrics for 2019](content/iOS-code-quality-2019) 
 - [iOS code quality metrics for 2018](content/iOS-code-quality-2018) 
 - [Testing animations in UIKit](content/testing-UIKit-animations) 
 - [SwiftLint config per target](content/SwiftLint-config-per-target) 
